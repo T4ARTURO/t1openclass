@@ -1,0 +1,33 @@
+body{
+
+	background-color: #DAF7C5;
+}
+
+h1{
+
+	color:#439F09;
+}
+
+#menu{
+	padding: o;
+}
+
+#menu li{
+	display:inline;
+}
+
+#menu li a {
+ font-family: Arial, Vegur, 'PT Sans', Verdana, Sans-serif;
+ font-size: 11px;
+ text-decoration: none;
+ float: left;
+ padding: 10px;
+ background-color: #6EB36C;
+ color: #fff;
+ }
+
+ #menu li a:hover {
+ background-color: #358F47;
+ margin-top: -2;
+ padding-bottom: 12px;]
+ }
